@@ -5,15 +5,14 @@ To use them you will need MATLAB and excel
 For modelling data use the following codes
 1) mnl_GeneratePoissonRGBvals
 2) EvaluateModelDistances
+
 For Tetbow Concentration analysis use the following codes
 1) mnl_ImportColourData (NB from excel spreadsheet, and do for all groups)
 2) mnl_CreateTetbowStructures
 3) TetbowConcentrationEvaluationAnalysis
 
-
 For Comparing axons use the following
 1) mnl_TernaryAxons
-
 
 For our human Colour Detection use the following
 1) EvaluateColourDiscrimination 
