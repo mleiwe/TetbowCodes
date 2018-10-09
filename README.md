@@ -17,4 +17,4 @@ For Comparing axons use the following
 For our human Colour Detection use the following
 1) EvaluateColourDiscrimination 
 or
-1) EvaluationOnly (if you've already created your colour sets - recommended as it will take some time to generate a
+1) EvaluationOnly (if you've already created your colour sets - recommended as it will take some time to generate a new one each time)
