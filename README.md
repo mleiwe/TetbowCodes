@@ -14,7 +14,7 @@ For Tetbow Concentration analysis use the following codes
 For Comparing axons use the following
 1) mnl_TernaryAxons
 
-For our human Colour Detection use the following
+For our Human Colour Detection (Figure 1H), please use the following
 1) EvaluateColourDiscrimination 
 or
 1) EvaluationOnly (if you've already created your colour sets - recommended as it will take some time to generate a new one each time)
