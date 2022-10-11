@@ -19,4 +19,4 @@ For our Human Colour Detection (Figure 1H), please use the following
 or
 1) EvaluationOnly (if you've already created your colour sets - recommended as it will take some time to generate a new one each time)
 
-If you have any further queeries please contact m-leiwe "at" med.kyushu-u.ac.jp
+If you have any further queeries please contact leiwe.nathanael.marcus.536 "at" m.kyushu-u.ac.jp
